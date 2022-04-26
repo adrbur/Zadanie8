@@ -1,0 +1,5 @@
+V roku 1991 spoločnosť Sun Microsystems odštartovala tvz. Green project, ktorého cieľom malo byť vytvorenie programovacieho jazyka pre spotrebnú elektroniku. James Gosling ako jeden z hlavných inžinierov tak vytvoril jazyk Oak, ktorý vychádzal zo syntaxe C a C++.
+
+Oak ako programovací jazyk spĺňal podmienku, aby bolo možné program napísať, skompilovať a spustiť na rôznych platformách bez opätovnej rekompilácie, ktorá bola potrebná v prípade jazyka C/C++. Počas vývoja jazyka sa objavil drobný problém s názvom, kedy členovia tímu zistili, že programovací jazyk Oak už existuje a preto sa zvolilo náhradné meno, ktoré svet pozná dodnes – Java.
+
+I keď bola Java pôvodne vyvíjaná s cieľom použitia v spotrebnej elektronike, v ktorej Sun videl obrovský potenciál, jej cesta sa celkom nečakane obrátila na web. V dobe rozmachu Internetu boli stránky viac–menej statické a dynamika bola riešená zložitým spôsobom cez CGI skripty vykonávajúce sa na strane servera.
